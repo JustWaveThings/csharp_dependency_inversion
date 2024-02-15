@@ -1,0 +1,14 @@
+/Users/fredlove/repos/solid_ex_DIP/solid_ex_DIP/bin/Debug/net8.0/solid_ex_DIP
+/Users/fredlove/repos/solid_ex_DIP/solid_ex_DIP/bin/Debug/net8.0/solid_ex_DIP.deps.json
+/Users/fredlove/repos/solid_ex_DIP/solid_ex_DIP/bin/Debug/net8.0/solid_ex_DIP.runtimeconfig.json
+/Users/fredlove/repos/solid_ex_DIP/solid_ex_DIP/bin/Debug/net8.0/solid_ex_DIP.dll
+/Users/fredlove/repos/solid_ex_DIP/solid_ex_DIP/bin/Debug/net8.0/solid_ex_DIP.pdb
+/Users/fredlove/repos/solid_ex_DIP/solid_ex_DIP/obj/Debug/net8.0/solid_ex_DIP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fredlove/repos/solid_ex_DIP/solid_ex_DIP/obj/Debug/net8.0/solid_ex_DIP.AssemblyInfoInputs.cache
+/Users/fredlove/repos/solid_ex_DIP/solid_ex_DIP/obj/Debug/net8.0/solid_ex_DIP.AssemblyInfo.cs
+/Users/fredlove/repos/solid_ex_DIP/solid_ex_DIP/obj/Debug/net8.0/solid_ex_DIP.csproj.CoreCompileInputs.cache
+/Users/fredlove/repos/solid_ex_DIP/solid_ex_DIP/obj/Debug/net8.0/solid_ex_DIP.dll
+/Users/fredlove/repos/solid_ex_DIP/solid_ex_DIP/obj/Debug/net8.0/refint/solid_ex_DIP.dll
+/Users/fredlove/repos/solid_ex_DIP/solid_ex_DIP/obj/Debug/net8.0/solid_ex_DIP.pdb
+/Users/fredlove/repos/solid_ex_DIP/solid_ex_DIP/obj/Debug/net8.0/solid_ex_DIP.genruntimeconfig.cache
+/Users/fredlove/repos/solid_ex_DIP/solid_ex_DIP/obj/Debug/net8.0/ref/solid_ex_DIP.dll
